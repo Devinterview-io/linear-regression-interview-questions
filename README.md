@@ -1,4 +1,4 @@
-# 70 Must-Know Linear Regression Interview Questions in 2025
+# 70 Must-Know Linear Regression Interview Questions in 2026
 
 <div>
 <p align="center">
